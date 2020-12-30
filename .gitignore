@@ -1,0 +1,13 @@
+.project
+.settings
+.classpath
+.idea
+target
+/deploy
+*.iml
+reports
+*.*~
+.metadata
+*.log
+build
+allure-results
